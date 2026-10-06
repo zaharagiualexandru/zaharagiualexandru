@@ -8,7 +8,7 @@ This is where I share my games, university projects, game jams, prototypes, and 
 
 🎮 Unity / C#  
 ⚙️ Unreal Engine 5 / C++  
-🕹️ Gameplay Programming  
+🕹️ Games Programming  
 🧊 Blender  
 
 ---
