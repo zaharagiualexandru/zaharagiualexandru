@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**zaharagiualexandru/zaharagiualexandru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alex, a games programmer based in London.
 
-Here are some ideas to get you started:
+I mainly work with **Unity / C#** and **Unreal Engine 5 / C++**, creating gameplay mechanics, systems, prototypes, and complete game projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile is where I upload my university projects, game jam games, experiments, and other projects I'm currently working on.
+
+---
+
+## Tools & Tech
+
+- 🎮 Unity
+- 💻 C#
+- ⚙️ Unreal Engine 5
+- 💻 C++
+- 🧊 Blender
+
+---
