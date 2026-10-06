@@ -2,18 +2,27 @@
 
 I'm Alex, a games programmer based in London.
 
-I mainly work with **Unity / C#** and **Unreal Engine 5 / C++**, creating gameplay mechanics, systems, prototypes, and complete game projects.
+I work mainly with **Unity / C#** and **Unreal Engine 5 / C++**, with a focus on gameplay programming and building game systems.
 
-This profile is where I upload my university projects, game jam games, experiments, and other projects I'm currently working on.
+This is where I share my games, university projects, game jams, prototypes, and experiments.
+
+🎮 Unity / C#  
+⚙️ Unreal Engine 5 / C++  
+🕹️ Gameplay Programming 
+🧊 Blender  
 
 ---
 
 ## Tools & Tech
 
-- 🎮 Unity
-- 💻 C#
-- ⚙️ Unreal Engine 5
-- 💻 C++
-- 🧊 Blender
+- Unity, C#
+- Unreal Engine 5, C++
+- Blender
 
 ---
+
+## A Bit About Me
+
+- 🎮 I enjoy playing video games
+- 🌍 I speak three languages: English, Greek, and Romanian
+- 🏍️ Motorbike rider — Kawasaki Z650
