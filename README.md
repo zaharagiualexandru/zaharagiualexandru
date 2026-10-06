@@ -6,9 +6,9 @@ I work mainly with **Unity / C#** and **Unreal Engine 5 / C++**, with a focus on
 
 This is where I share my games, university projects, game jams, prototypes, and experiments.
 
-🎮 Unity / C#
-⚙️ Unreal Engine 5 / C++
-🕹️ Gameplay Programming
+🎮 Unity / C#  
+⚙️ Unreal Engine 5 / C++  
+🕹️ Gameplay Programming  
 🧊 Blender  
 
 ---
